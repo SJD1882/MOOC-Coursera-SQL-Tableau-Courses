@@ -1,4 +1,4 @@
-### Teradata SQL - Exercise 01
+### Teradata SQL - Exercise 02
 
 #### EX01: Use COUNT and DISTINCT to determine how many distinct skus there are in pairs of the skuinfo, skstinfo and trnsact tables. Which skus are common to pairs of tables or unique to specific tables?
 
